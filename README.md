@@ -18,7 +18,7 @@ This project uses deep learning and satellite imagery to classify land use and l
 
 ## 📄 Documents
 
-- [📕 Final Report](reports/Batch_5 report .pdf)
+- [📕 Final Report](./reports/Batch_5 report .pdf)
 - [📘 IEEE Conference Paper](./reports/ieee_paper.pdf)
 - [📊 Poster Presentation](./reports/Batch_5_poster.pdf)
 
